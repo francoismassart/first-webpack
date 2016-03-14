@@ -5,6 +5,15 @@ import $ from 'jquery';
 let tool = 'babel';
 $('body').append(`<p>Hello $ and ${tool}</p>`);
 
+
+if (__DEV__) {
+  console.warn('__DEV__');
+}
+// ...
+if (__PRERELEASE__) {
+  console.warn('__PRERELEASE__');
+}
+
 /*/
 import Button from './Components/Button';
 const button = new Button('#yes');
@@ -31,3 +40,4 @@ setTimeout( () => {
   }, 'button-chunk');
 }, 1000);
 //*/
+
