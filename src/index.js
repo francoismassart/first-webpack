@@ -41,3 +41,11 @@ setTimeout( () => {
 }, 1000);
 //*/
 
+setTimeout( () => {
+  require.ensure([], () => {
+    const Header = require('./Components/Header');
+    //const head = new Header();
+    const head = new Header('Header');
+    head.render('.js-head');
+  }, 'header-chunk');
+}, 500);
