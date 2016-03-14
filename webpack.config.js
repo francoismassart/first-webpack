@@ -7,16 +7,20 @@ var definePlugin = new webpack.DefinePlugin({
   __PRERELEASE__: JSON.stringify(JSON.parse(process.env.BUILD_PRERELEASE || 'false'))
 });
 
+var commonsPlugin = new webpack.optimize.CommonsChunkPlugin('common.js');
+
+
 module.exports = {
     entry:  {
         Demo: './src/index.js',
+        About: './src/about.js',
     },
     output: {
         path:     'builds',
         filename: '[name].js',
         publicPath: 'builds/',
     },
-    plugins: [definePlugin],
+    plugins: [definePlugin, commonsPlugin],
     module: {
         loaders: [
             {
