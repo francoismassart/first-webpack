@@ -1,0 +1,1059 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"pr",
+				"private	keyword"
+			],
+			[
+				"str",
+				"string	keyword"
+			],
+			[
+				"boo",
+				"boolean	keyword"
+			],
+			[
+				"pa",
+				"pairs	var"
+			],
+			[
+				"crea",
+				"createElement	method"
+			],
+			[
+				"do",
+				"document	var"
+			],
+			[
+				"arg",
+				"arguments	local var"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"c",
+				"callback	parameter"
+			],
+			[
+				"pro",
+				"processingIndicator	property"
+			],
+			[
+				"pg",
+				"paginationPage	property"
+			],
+			[
+				"in",
+				"inputsSearch	property"
+			],
+			[
+				"Op",
+				"Options	interface"
+			],
+			[
+				"tab",
+				"tableReaders	var"
+			],
+			[
+				"D",
+				"Dataset	interface"
+			],
+			[
+				"F",
+				"Fma	interface"
+			],
+			[
+				"JQ",
+				"JQueryDynatable	module"
+			],
+			[
+				"attr",
+				"attributeWriter	property"
+			],
+			[
+				"d",
+				"dom	property"
+			],
+			[
+				"J",
+				"JQueryDynatable	module"
+			],
+			[
+				"s",
+				"sorts	property"
+			],
+			[
+				"ev",
+				"Event	interface"
+			],
+			[
+				"So",
+				"SortsFunctions	interface"
+			],
+			[
+				"In",
+				"Inputs	interface"
+			],
+			[
+				"Sort",
+				"SortsHeaders	interface"
+			],
+			[
+				"Sett",
+				"Settings	interface"
+			],
+			[
+				"Rec",
+				"RecordsCount	interface"
+			],
+			[
+				"Pag",
+				"PaginationPerPage	interface"
+			],
+			[
+				"Pa",
+				"PaginationPage	interface"
+			],
+			[
+				"b",
+				"boolean	keyword"
+			],
+			[
+				"DOM",
+				"DOMColumns	interface"
+			],
+			[
+				"p",
+				"perPageDefault	property"
+			],
+			[
+				"nu",
+				"number	keyword"
+			],
+			[
+				"any",
+				"any	keyword"
+			],
+			[
+				"ret",
+				"return	keyword"
+			],
+			[
+				"a",
+				"any	keyword"
+			],
+			[
+				"JQu",
+				"JQueryDynatable	module"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Li",
+				"LivingThing	interface"
+			],
+			[
+				"nam",
+				"name	property"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"new",
+				"new_route"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"web",
+				"website_access"
+			],
+			[
+				"border-w",
+				"border-left-width"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"tw",
+				"twttr"
+			],
+			[
+				"he",
+				"helper"
+			],
+			[
+				"art",
+				"articleEndPosition"
+			],
+			[
+				"un",
+				"unlisten"
+			],
+			[
+				"update",
+				"updateUI"
+			],
+			[
+				"menu",
+				"menuToOpen"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"subm",
+				"submenuCont"
+			],
+			[
+				"coff",
+				"coffeeSources"
+			],
+			[
+				"sass",
+				"sassSources"
+			],
+			[
+				"sa",
+				"sassSources"
+			],
+			[
+				"g",
+				"gulp"
+			],
+			[
+				"sc",
+				"scripts"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"js",
+				"jsSources"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:J",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/francois/Desktop/first-webpack"
+	],
+	"file_history":
+	[
+		"/Users/francois/Desktop/webpack-typescript/bundle.js",
+		"/Users/francois/Desktop/webpack-typescript/index.html",
+		"/Users/francois/Desktop/webpack-typescript/tsconfig.json",
+		"/Users/francois/Desktop/using-chai/typings/main/ambient/jquery/index.d.ts",
+		"/Users/francois/Desktop/using-chai/index.ts",
+		"/Users/francois/Desktop/using-chai/calculator.ts",
+		"/Users/francois/Desktop/using-chai/test/calculatorTest.ts",
+		"/Users/francois/Desktop/using-chai/hello.ts",
+		"/Users/francois/Desktop/systemjs-typescript/app/dist/main.min.js",
+		"/Users/francois/Desktop/systemjs-typescript/app/example-class.js",
+		"/Users/francois/Desktop/systemjs-typescript/app/main.js",
+		"/Users/francois/Desktop/systemjs-typescript/systemjs-typescript.sublime-project",
+		"/Users/francois/Desktop/systemjs-typescript/app/main.ts",
+		"/Users/francois/Desktop/tsc/test.js",
+		"/Users/francois/Desktop/tsc/main.html",
+		"/Users/francois/Documents/DefinitelyTyped/jquery.form/jquery.form.d.ts",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jquery.dynatable.d.ts",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jquery.dynatable-tests.js",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jquery.dynatable.js",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jquery.d.ts",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/lib.d.ts",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jquery.js",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jquery.dynatable.sublime-project",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jquery.dynatable-tests.ts",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/jsdoc.ts",
+		"/Users/francois/Desktop/TypeScript/typings/jquery/jsdoc.ts",
+		"/Users/francois/DefinitelyTyped/chrome/chrome-cast.d.ts",
+		"/Users/francois/DefinitelyTyped/react-native/react-native.d.ts",
+		"/Users/francois/DefinitelyTyped/selenium-webdriver/selenium-webdriver.d.ts",
+		"/Users/francois/DefinitelyTyped/java-applet/java-applet.d.ts",
+		"/Users/francois/DefinitelyTyped/alt/alt.d.ts",
+		"/Users/francois/Desktop/TypeScript/typings/jquery.dynatable/enum.ts",
+		"/Users/francois/Desktop/TypeScript/test.ts",
+		"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js/RTBF/Article/Simple/Simple.js",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/theme/revamp/common/header.tpl",
+		"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js/revamp/shared/cryo-custom-select.es6",
+		"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js/revamp/module/theme/common/header.es6",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/theme/wp/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/theme/wp/default.tpl",
+		"/private/var/www/rtbf/cryo/websites/me/admin/public/static/scss/revamp/inspinia/2.2/_base.scss",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/accessexternal/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/agenda/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/aggregator/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/ajax/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/api/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/article/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/breaking/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/commentgigya/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/commentnew/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/configuration/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/contest/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/dossier/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/elections/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/emissiontv/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/epgradio/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/expand/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/feeds/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/footballmercato/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/hitparade/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/home/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/homesettings/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/jeunesse/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/livecenter/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/liveinfo/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/logepgchanges/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/menu/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/multimedia/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/multimediaset/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/notify/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/picasa/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/planifier/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/promobox/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/promobox2013/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/relations/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/search/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/sitemaker/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/socialnetwork/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/sommaire/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/takeover/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/thevoice/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/tickerbox/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/tool/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/totp/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/twitter/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/uploader/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/utilities/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/watchdog/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/widget/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/error/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/login/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/lostpassword/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/jcrop/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/monitoring/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/redis/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/public/static/webapps/samsung/RTBF_1.003/config.xml",
+		"/private/var/www/rtbf/cryo/websites/me/admin/public/static/scss/theme/wp/admin.scss",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/TypeScript/Preferences.sublime-settings",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/TypeScript/TypeScript.sublime-settings",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/User/TypeScript.sublime-settings",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/TypeScript Compiler/TypeScript Compiler.sublime-settings",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/User/TypeScriptReact.sublime-settings",
+		"/Users/francois/Desktop/TypeScript/tsconfig.json",
+		"/Users/francois/Library/Application Support/Sublime Text 2/Packages/User/TypeScript Compiler.sublime-settings",
+		"/Users/francois/Desktop/TypeScript/greeter.ts",
+		"/Users/francois/Desktop/TypeScript/greeter.html",
+		"/Users/francois/Desktop/TypeScript/greeter.js",
+		"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js/revamp/vendor/inspinia/2.2/inspinia.js",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/theme/popup/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/monitoring/db.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/monitoring/dbconnect.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/monitoring/me_cache/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/widget/widget/form/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/home/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/users/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/users/connected.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/routes/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/resources/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/mygroups/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/maintenance/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/htaccess/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/home/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/groups/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/external/requests.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/external/default.php",
+		"/private/var/www/rtbf/cryo/websites/me/admin/module/access/external/attempts.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/Users/francois/DefinitelyTyped, *.d.ts",
+			"/Users/francois/Downloads/us.sitesucker.mac.sitesucker/usejsdoc.org, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/scss, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin/, */config.xml",
+			"/private/var/www/rtbf/cryo/websites/me/admin/, *.xml",
+			"/private/var/www/rtbf/cryo/websites/me/admin/, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/scss, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/me/admin/, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.es6",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/scss, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/me/admin/module, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js/revamp, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/scss, *.scss",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js/revamp, *.js",
+			"/private/var/www/rtbf/, *.php",
+			"/private/var/www/rtbf/, *.*",
+			"/private/var/www/rtbf/, *.xml",
+			"/private/var/www/rtbf/, *.*",
+			"/private/var/www/rtbf/, *.php",
+			"/private/var/www/rtbf/cryo/, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/static/js/revamp, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public/js/revamp, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin/public, *.js",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.js",
+			"/private/var/www/rtbf/cryo/websites/, *.js",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.pl",
+			"/private/var/www/rtbf/cryo/websites/rtbf/home, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.es6",
+			"/private/var/www/rtbf/cryo/websites/rtbf/presse, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/rtbf/press, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.scss",
+			"/private/var/www/rtbf/cryo/websites/me/amdin, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/radio/vivacite, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.scss",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.*",
+			"/private/var/www/rtbf/cryo/websites/rtbf/embed, *.*",
+			"/private/var/www/rtbf/cryp/websites/rtbf/embed, *.*",
+			"/private/var/www/rtbf/embed, *.*",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.scss",
+			"/private/var/www/rtbf/radioplayer, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/me/admin, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/Users/francois/Desktop/havasww/CRM-Salon/includes, *.*",
+			"/private/var/www/rtbf/cryo/websites/rtbf/www/public, *.js",
+			"/private/var/www/rtbf/cryo/websites/news/common/public, *.js",
+			"/private/var/www/rtbf/cryo/websites/, *.js",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.es6",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.*",
+			"/private/var/www/rtbf/cryo/websites/rtbf/1418, *.php",
+			"/private/var/www/rtbf/cryo/websites/rtbf/1418, *.*",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/news/sport, *.php",
+			"/private/var/www/rtbf/cryo/websites/news/sport, *.*",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.*",
+			"/private/var/www/rtbf/cryo/websites/tv/tv, *.*",
+			"/private/var/www/rtbf/cryo/websites/, *.*",
+			"/private/var/www/rtbf/cryo/websites/tv, *.*",
+			"/private/var/www/rtbf/cryo/websites/tv, *.php",
+			"/private/var/www/rtbf/cryo/websites/tv, *.*",
+			"/private/var/www/rtbf/cryo/websites/rtbf/www, *.*",
+			"/private/var/www/rtbf/cryo/websites/, *.js",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.*",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.js",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/rtbf/corporate, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.php",
+			"/private/var/www/rtbf/cryo/websites/, *.scss",
+			"/private/var/www/rtbf/cryo/websites/tv/media, *.scss",
+			"/private/var/www/rtbf/cryo/websites/news/common, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/rtbf/embed",
+			"/private/var/www/rtbf/cryo/websites/news/common, *.tpl",
+			"/private/var/www/rtbf/cryo/websites/news/common, *.scss",
+			"/private/var/www/rtbf/cryo/websites/, *.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'NAV_SECOND_LEVEL_COLLAPSE', ($param['open'])",
+			"editor.css",
+			"lastUp",
+			"constr",
+			"__extends",
+			"\"",
+			"todo",
+			"skip",
+			"PaginationPerPage",
+			"attributeWriter",
+			"attr",
+			"\"someAttribute\"",
+			"recordCountTextTemplate",
+			"recordCountText",
+			"recordCountFilteredTemplate",
+			"recordCountPageUnboundedTemplate",
+			"recordCountPageBoundTemplate",
+			"recordCountFilteredTemplate",
+			"anyMatch",
+			"columns",
+			"[this",
+			"ce Table",
+			"record",
+			"Object",
+			"=>",
+			"Object",
+			"record: Object",
+			"representing the one line of data",
+			"record An data object",
+			"record An Object",
+			"An Object",
+			"Element",
+			"defaultAttributeReader",
+			"_rowReader",
+			"[",
+			"found",
+			"[",
+			"An object",
+			"=>",
+			"json",
+			"[",
+			"\"",
+			"set(",
+			"inputs.page",
+			"pagination",
+			"Array",
+			".push",
+			"State",
+			"toggleSort",
+			"sortsHeaders",
+			"sorts",
+			"allMatch",
+			"dataset",
+			"allMatch",
+			"toggleSort",
+			"sortedByColumn",
+			"appendArrowDown",
+			".add",
+			"add",
+			"getFromTable",
+			"// functions.",
+			"functions",
+			"// state.",
+			"// sortsHeaders.",
+			"// sorts.",
+			"// recordsCount.",
+			"// records.",
+			"// queries.",
+			"// processingIndicator.",
+			"selector",
+			"JQuery selector",
+			"jQuery selector",
+			"attach",
+			"removeFromArray",
+			"generate",
+			"initOnLoad",
+			"generate",
+			"attachGeneratedAttributes",
+			".tooltip(",
+			"infoTooltip",
+			"attachGeneratedAttributes",
+			"add",
+			"$.",
+			"$element",
+			"params.dyn",
+			"params",
+			"ynatable",
+			"dynatable",
+			"_rowReader",
+			"rowReader",
+			"_rowReader",
+			"defaultAttributeWriter",
+			"defaultCellWriter",
+			"perpag",
+			"_rowReader",
+			"_attributeReader",
+			"Reader",
+			"eader",
+			"defaultRowWriter",
+			"unct",
+			"records",
+			"sortTypes",
+			"example-table",
+			"sortTypes",
+			"sortsKeys",
+			"page",
+			"queries",
+			"totalRecordCount",
+			"ajaxDataType",
+			"'tight'",
+			"ajaxMethod",
+			"ajaxOnLoad",
+			"api.",
+			"ajaxCache",
+			"The target inside next",
+			"perPageTarget",
+			"searchTarget",
+			"paginationGap",
+			"paginationLinkTarget",
+			"attach",
+			"paginationLinkTarget",
+			"recordCountTarget",
+			"rray",
+			"queryEvent",
+			"page",
+			"inputs.page",
+			"multisort",
+			"sorts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'NAV_SECOND_LEVEL_COLLAPSE', (@$param['open'])",
+			"\"the_rank\"",
+			"representing the current line of data",
+			"record A data object",
+			"record An data object",
+			"A data object",
+			"'",
+			"// ",
+			"jQuery object",
+			"The target next",
+			"$editor",
+			"$edtr",
+			"$expandAllP",
+			"$collapseAllP",
+			"$hiddenTpl",
+			"$pListItem",
+			"$paragraphList",
+			"$paragraphPanel",
+			"$articleForm",
+			"$articleEditor",
+			"$contner",
+			"expandAllP",
+			"collapseAllP",
+			"<layout>/theme/revamp/default</layout>",
+			"    ",
+			"$this->setLayout('/theme/blank');",
+			"&nbsp;?",
+			"&nbsp;!",
+			"",
+			"media",
+			"&amp;",
+			".cryo-page-wrapper",
+			"\"cryo-module-menu__arrow",
+			"\"cryo-module-menu__icon",
+			"cryo-module-menu__nav--2nd-level nav",
+			"nav cryo-module-menu__nav--3rd-level",
+			"cryo-module-menu__nav--3rd-level",
+			"cryo-module-menu__nav--1st-level",
+			"js-cryo-main-menu",
+			"cryo-module-menu",
+			"cryo",
+			"nav-3rd-level",
+			"nav-2nd-level",
+			"js-toggle-sidemenu",
+			"js-toggle-sidemnu",
+			"'",
+			"<cim>rtbf-greeting</cim>",
+			"js-admin-main-menu",
+			"$^$/me/cms",
+			"$^$/me/cms/access",
+			"ME_CMS_STATIC",
+			"{ME_CMS_STATIC}",
+			"visible-xs-block\"",
+			"@include rtbf-webfont-family($font-article-paragraph-title)",
+			"@include rtbf-webfont-family($font-article-main-title)",
+			"@include rtbf-webfont-family($font-article-time)",
+			"@include rtbf-webfont-family($font-article-social)",
+			"@include rtbf-webfont-family($font-article-author)",
+			"@include rtbf-webfont-family($font-article-body)",
+			"@include rtbf-webfont-family($font-article-grid-title)",
+			"@include rtbf-webfont-family($font-title)",
+			"@include rtbf-webfont-family($font-body)",
+			"@include rtbf-webfont-family($font-sans-serif)",
+			"<span class=\"www-quote\"></span>",
+			"<span class=\"www-quote\">“</span>",
+			"<span class=\"www-quote\"><i class=\"ico ico-quote-left\"></i></span>",
+			"<span class=\"www-quote\">abc</span>",
+			"rtbf-article-grid__item rtbf-article-grid__item--row www-bg-fill  rtbf-article-grid__item--live",
+			"rtbf-article-grid__item www-bg-fill rtbf-article-grid__item--live",
+			"À La UNE",
+			"ico",
+			"ico ",
+			"ico-",
+			"ico",
+			".ico",
+			"ico",
+			"fa",
+			".ico-",
+			"/3.3.4/bootstrap.min.js",
+			"$this->html->addCSS('/news/info/public/static/css/article-detail.css', $this->html->zone_header);",
+			"fa fa-play www-media-play-icon",
+			"    ",
+			"isResponsive",
+			"'",
+			"isResponsive",
+			"'",
+			"<a href=\"https://",
+			"\">Open in YouTube",
+			"<div class=\"youtube-video\"><a href=\"//www.youtube.com",
+			">Open in YouTube</a>",
+			"",
+			"<div class=\"hidden-xs hidden-sm leaderboard rtbf-ads__leaderboard\">",
+			"'",
+			"RTBF_WWW_STATIC/images/culture/icons",
+			".png)",
+			"url(",
+			"RTBF_WWW_STATIC/images/sport/",
+			"",
+			"MINISITE_GREETING_STATIC",
+			"",
+			"RADIO_RADIO_STATIC",
+			"RTBF_WWW_STATIC/images/purefm/",
+			"{RTBF_WWW_STATIC}/images/video/",
+			"RTBF_WWW_STATIC/images/video/",
+			"RTBF_WWW_STATIC/images/video/button_ticker.png",
+			"RTBF_WWW_STATIC/images/video/transparent_black.png",
+			"RTBF_WWW_STATIC/images/video/bg_line.png",
+			"RTBF_WWW_STATIC/images/video/puce.png",
+			"RTBF_WWW_STATIC/images/video/transparent_black.png",
+			"{RTBF_WWW_STATIC}/images/video/default.jpg",
+			"RTBF_WWW_STATIC/images/transparent_black.png",
+			"RTBF_INFO_STATIC",
+			"RTBF_WWW_STATIC",
+			"$noDetailsItem",
+			"$detailsItems",
+			"$noDetailSlide",
+			"$detailsSlides",
+			"/3.2.0/",
+			"placeholder-fallback",
+			"wdw",
+			"$toggler",
+			"$body",
+			"@$togglerContainer",
+			"@togglerContainer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "first-webpack.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
