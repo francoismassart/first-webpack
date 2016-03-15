@@ -19,8 +19,8 @@ var commonsPlugin = new webpack.optimize.CommonsChunkPlugin({
 
 module.exports = {
     entry:  {
-        Demo: './src/index.js',
-        About: './src/about.js',
+        Demo: './src/IndexEntry.js',
+        About: './src/AboutEntry.js',
     },
     output: {
         path:     'builds',
