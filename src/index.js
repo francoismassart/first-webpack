@@ -14,6 +14,10 @@ if (__PRERELEASE__) {
   console.warn('__PRERELEASE__');
 }
 
+const Calculator = require('./Components/Calculator');
+const calc = new Calculator('calc');
+console.log(calc.add(1, 1));
+
 /*/
 import Button from './Components/Button';
 const button = new Button('#yes');
