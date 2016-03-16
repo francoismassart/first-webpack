@@ -1,6 +1,7 @@
 'use strict';
 
 var $ = require('jquery');
+var Mustache = require('mustache');
 
 let tool = 'babel';
 $('body').append(`<p>Hello $ and ${tool}</p>`);
@@ -44,7 +45,6 @@ setTimeout( () => {
     button.render('.js-btn');
   }, 'button-chunk');
 }, 1000);
-//*/
 
 setTimeout( () => {
   require.ensure([], () => {
@@ -54,7 +54,7 @@ setTimeout( () => {
     head.render('.js-head');
   }, 'header-chunk');
 }, 500);
-
+//*/
 
 // CommonJS
 /*/
@@ -73,10 +73,14 @@ setTimeout( () => {
 //*/
 
 // AMD
-//*/
+/*/
 setTimeout( () => {
   require(['./module-amd-a','./module-amd-b'], function(a, b) {
     console.info(`LOADED via AMD ${a} + ${b}`);
   }); // Can't use `require.ensure` and/or provide a name!
 }, 4000);
 //*/
+
+//const Button = require.include('./Components/Button');
+//const Header = require.include('./Components/Header');
+

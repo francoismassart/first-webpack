@@ -1,6 +1,7 @@
 'use strict';
 
 var $ = require('jquery');
+var Mustache = require('mustache');
 
 let tool = 'babel';
 $('body').append(`<p>Hello $ and ${tool}</p>`);
