@@ -4,7 +4,9 @@
  *   @see https://webpack.github.io/docs/code-splitting.html
  * - @done Unit Test (chai/mocha)
  * - E2E
- * - Unit Test (karma)
+ * - Unit Test in browser
+ *   @see https://www.youtube.com/watch?v=_sLLjPzOrXI
+ *   @see https://github.com/jesseskinner/webpack-mocha-demo
  * - @done Source map
  * - Common chunks children
  * - @done Error reports
@@ -37,13 +39,16 @@ var CommonsPlugin = new require('webpack/lib/optimize/CommonsChunkPlugin');
 module.exports = {
     entry:  {
         common: ['mustache'],
-        Demo: './src/IndexEntry.js',
-        About: './src/AboutEntry.js',
+        Demo: './src/IndexEntry.es6',
+        About: './src/AboutEntry.es6',
     },
     output: {
         path:     'builds',
         filename: '[name].js',
         publicPath: 'builds/',
+    },
+    resolve: {
+        extensions: ['', '.webpack.js', '.web.js', '.js', '.es6']
     },
     //plugins: [definePlugin, commonsPlugin],
     plugins: [
@@ -51,13 +56,13 @@ module.exports = {
         new CommonsPlugin({
           minChunks: 2,
           //children: true,
-          name: "common",
+          name: 'common',
         })
     ],
     module: {
         loaders: [
             {
-                test:    /\.js$/,
+                test:    /\.es6$/,
                 exclude: /node_modules/,
                 loader:  'babel-loader?presets[]=es2015',
                 include: __dirname + '/src',

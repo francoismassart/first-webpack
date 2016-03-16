@@ -1,0 +1,1 @@
+module.exports = (function() { console.warn('B has run'); return "cjs module B"; })();
