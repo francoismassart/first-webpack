@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "precompile": "rimraf ./tests/**/*.js",
-    "compile": "babel ./src/**/*.js --out-dir tests/ --debug --presets es2015",
+    "compile": "babel ./src/**/*.es6 --out-dir tests/ --debug --presets es2015",
     "pretest": "npm run compile",
-    "test": "mocha ./tests/**/*Test.js",
+    "test": "mocha ./tests/**/*-test.js",
     "prewebpack": "rimraf ./builds/*",
-    "webpack": "BUILD_DEV=1 webpack --display-chunks --display-modules --display-hidden",
+    "webpack": "BUILD_DEV=1 webpack --display-reasons --progress --display-chunks --display-modules --display-hidden",
     "webpack-stats": "webpack --profile --json > stats.json"
   },
   "author": "",

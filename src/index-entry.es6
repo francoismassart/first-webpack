@@ -15,13 +15,13 @@ if (__PRERELEASE__) {
   console.warn('__PRERELEASE__');
 }
 
-const Calculator = require('./Components/Calculator');
+const Calculator = require('./components/calculator/calculator');
 const calc = new Calculator('calc');
 console.log(calc.add(1, 1));
 
 /*/
 // OK but KO via require.ensure
-import Button from './Components/Button';
+import Button from './components/button/button';
 const button = new Button('#yes');
 button.render('.js-btn');
 //*/
@@ -29,8 +29,8 @@ button.render('.js-btn');
 
 /*/
 setTimeout( () => {
-  require.ensure(['./Components/Button'], () => {
-    const Button = require('./Components/Button');
+  require.ensure(['./components/button/button'], () => {
+    const Button = require('./components/button/button');
     const button = new Button('#finally');
     button.render('.js-btn');
   }, 'button-chunk');
@@ -40,7 +40,7 @@ setTimeout( () => {
 //*/
 setTimeout( () => {
   require.ensure([], () => {
-    const Button = require('./Components/Button');
+    const Button = require('./components/button/button');
     const button = new Button('#finally');
     button.render('.js-btn');
   }, 'button-chunk');
@@ -48,7 +48,7 @@ setTimeout( () => {
 
 setTimeout( () => {
   require.ensure([], () => {
-    const Header = require('./Components/Header');
+    const Header = require('./components/header/header');
     //const head = new Header();
     const head = new Header('Header');
     head.render('.js-head');
@@ -81,6 +81,6 @@ setTimeout( () => {
 }, 4000);
 //*/
 
-//const Button = require.include('./Components/Button');
-//const Header = require.include('./Components/Header');
+//const Button = require.include('./components/button/button');
+//const Header = require.include('./components/header/header');
 

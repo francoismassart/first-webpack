@@ -1,7 +1,7 @@
 var $ = require('jquery');
-var template = require('./Button.html');
+var template = require('./button.html');
 var Mustache = require('mustache');
-require('./Button.scss');
+require('./button.scss');
 
 class Button {
     constructor(link) {

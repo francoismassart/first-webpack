@@ -2,15 +2,20 @@
  * TODO LIST
  * - Try the require.ensure with all possible modules (commonjs, amd, ES6, System)
  *   @see https://webpack.github.io/docs/code-splitting.html
- * - @done Unit Test (chai/mocha)
+ * - Common chunks children
+ * - Vendor custom builds
  * - E2E
- * - Unit Test in browser
+ * - @done Unit Test (chai/mocha)
+ * - @done Unit Test in browser
  *   @see https://www.youtube.com/watch?v=_sLLjPzOrXI
  *   @see https://github.com/jesseskinner/webpack-mocha-demo
  * - @done Source map
- * - Common chunks children
  * - @done Error reports
- * - Vendor custom builds
+ * - @done We can move some files out of the bundles
+ *   @ see https://github.com/webpack/extract-text-webpack-plugin
+ * - @done We can ignore some file e.g. unnecessary translations files
+ *   @see http://stackoverflow.com/questions/25384360/how-to-prevent-moment-js-from-loading-locales-with-webpack
+ *   @see https://github.com/webpack/docs/wiki/list-of-plugins#ignoreplugin
  */
 
  var webpack = require('webpack');
@@ -129,8 +134,8 @@ commonsPlugin = new webpack.optimize.CommonsChunkPlugin({
 module.exports = {
     entry:  {
         vendor: ['jquery', 'mustache'],
-        Demo: './src/IndexEntry',
-        About: './src/AboutEntry',
+        Demo: './src/index-entry',
+        About: './src/about-entry',
     },
     output: {
         path:     'builds',

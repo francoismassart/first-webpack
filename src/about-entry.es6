@@ -17,7 +17,7 @@ if (__PRERELEASE__) {
 
 setTimeout( () => {
   require.ensure([], () => {
-    const Header = require('./Components/Header');
+    const Header = require('./components/header/header');
     //const head = new Header();
     const head = new Header('About');
     head.render('.js-head');

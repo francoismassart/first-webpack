@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-const Calculator = require('./Calculator');
+const Calculator = require('./calculator');
 
 describe('Calculator', () => {
   it('should add two numbers', () => {
