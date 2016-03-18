@@ -2,9 +2,13 @@
  * TODO LIST
  * - Try the require.ensure with all possible modules (commonjs, amd, ES6, System)
  *   @see https://webpack.github.io/docs/code-splitting.html
+ * - Try multiple properties on module.exports + multiple import
+ * - eslint
+ * - Pre/Post compile
  * - Common chunks children
  * - Vendor custom builds
  * - E2E
+ * 
  * - @done Unit Test (chai/mocha)
  * - @done Unit Test in browser
  *   @see https://www.youtube.com/watch?v=_sLLjPzOrXI
