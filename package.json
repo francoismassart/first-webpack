@@ -9,7 +9,8 @@
     "pretest": "npm run compile",
     "test": "mocha ./tests/**/*-test.js",
     "prewebpack": "rimraf ./builds/*",
-    "webpack": "BUILD_DEV=1 webpack --display-reasons --progress --display-chunks --display-modules --display-hidden",
+    "webpack": "webpack --display-modules",
+    "webpackfull": "BUILD_DEV=1 webpack --display-reasons --progress --display-chunks --display-modules --display-hidden",
     "webpack-stats": "webpack --profile --json > stats.json"
   },
   "author": "",
@@ -45,6 +46,7 @@
   },
   "dependencies": {
     "jquery": "^2.2.1",
-    "mustache": "^2.2.1"
+    "mustache": "^2.2.1",
+    "underscore": "^1.8.3"
   }
 }

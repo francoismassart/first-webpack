@@ -2,6 +2,7 @@
 
 var $ = require('jquery');
 var Mustache = require('mustache');
+let _ = require('underscore');
 
 let tool = 'babel';
 $('body').append(`<p>Hello $ and ${tool}</p>`);
@@ -9,6 +10,9 @@ $('body').append(`<p>Hello $ and ${tool}</p>`);
 
 if (__DEV__) {
   console.warn('__DEV__');
+  var stooges = [{name: 'moe', age: 40}, {name: 'larry', age: 50}, {name: 'curly', age: 60}];
+  console.log(_.max(stooges, function(stooge){ return stooge.age; }));
+  console.info("//=> {name: 'curly', age: 60};");
 }
 // ...
 if (__PRERELEASE__) {
