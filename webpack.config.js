@@ -159,7 +159,7 @@ module.exports = {
             {
                 test:    /\.es6$/,
                 exclude: /node_modules/,
-                loader:  'babel-loader?presets[]=es2015',
+                loader:  'babel-loader',
                 include: __dirname + '/src',
             },
             {
