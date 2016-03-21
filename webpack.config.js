@@ -113,21 +113,22 @@ commonsPlugin = new webpack.optimize.CommonsChunkPlugin({
 
 /**
  * Combining #2 + #4
- * You must add this `common: ['jquery', 'mustache'],` in entry
- * and add this in the html `<script src="vendor.js" charset="utf-8"></script>`
+ * You could add this `vendor: ['jquery', 'mustache'],` in entry
+ * and you MUST add this in the html `<script src="vendor.js" charset="utf-8"></script>`
  */
 var vendorCommonsPlugin = new webpack.optimize.CommonsChunkPlugin({
   name: 'vendor',
-  filename: 'vendor.js',
-  minChunks: Infinity,
+  filename: '[name].js', // Using [hash] here could be problematic with CRYO `addJS()`
+  //minChunks: Infinity, // This prevents new inclusion of require listed in entry files
+  minChunks: 2, // Move into vendor chunk if used at least x times in different entries
   //chunks:,
   //children: true,
   //async:,
   //minSize:,
 });
 commonsPlugin = new webpack.optimize.CommonsChunkPlugin({
-  //name: 'shared',
-  //filename: 'shared.js',
+  //name: 'shared',         // 
+  filename: 'shared-[hash].js',  // 
   //minChunks: Infinity,
   //chunks:,
   children: true,
@@ -135,15 +136,18 @@ commonsPlugin = new webpack.optimize.CommonsChunkPlugin({
   //minSize:,
 });
 
+// [name] is replaced by the name of the chunk.
+// [hash] is replaced by the hash of the compilation.
+// [chunkhash] is replaced by the hash of the chunk.
 module.exports = {
     entry:  {
-        vendor: ['jquery', 'mustache'],
-        Demo: './src/index-entry',
-        About: './src/about-entry',
+        vendor: ['jquery'], //, 'mustache'],
+        index: './src/index-entry',
+        about: './src/about-entry',
     },
     output: {
         path:     'builds',
-        filename: '[name].js',
+        filename: '[name]-entry.js',
         publicPath: 'builds/',
     },
     resolve: {
